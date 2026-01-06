@@ -90,7 +90,7 @@ def zip_folder(folder_path, zip_path="generated_images.zip"):
 
 
 # ---------------------------
-# Streamlit UI
+# Streamlit UI to generate ID Card
 # ---------------------------
 st.title("Excel → ID Card Generator")
 
